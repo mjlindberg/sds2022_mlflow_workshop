@@ -32,9 +32,10 @@ logger = logging.getLogger(__name__)
 
 ########
 # Command-line args - passed in by MLFlow
-model_type = sys.argv[1]
-alpha = float(sys.argv[2])
-l1_ratio = float(sys.argv[3])
+print(sys.argv)
+model_type = sys.argv[0]
+alpha = float(sys.argv[1])
+l1_ratio = float(sys.argv[2])
 ########
 
 """# Utilities for Data and Metrics"""
