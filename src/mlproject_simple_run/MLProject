@@ -1,0 +1,9 @@
+name: housing_regression
+
+entry_points:
+  main:
+    parameters:
+      model_type: {type: str, default: 'all'}
+      alpha: {type: float, default: 0.5}
+      l1_ratio: {type: float, default: 0.5}
+    command: "python mlflow_regression_housing.py -r {model_type} {alpha} {l1_ratio}"
