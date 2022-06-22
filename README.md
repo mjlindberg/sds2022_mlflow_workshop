@@ -1,5 +1,5 @@
-##Hands-on MLFlow: managing the end-to-end machine learning lifecycle in practice
-###Organized by SIT Academy & SDS 2022
+## Hands-on MLFlow: managing the end-to-end machine learning lifecycle in practice
+### Organized by SIT Academy & SDS 2022
 
 MLFlow is one of the most popular tools to manage the machine learning lifecycle from the beginning to the end. In this one-day workshop, we propose to guide you through the various ways you can use this platform to track, package, deploy and share your models.
 
