@@ -3,7 +3,9 @@
 
 MLFlow is one of the most popular tools to manage the machine learning lifecycle from the beginning to the end. In this one-day workshop, we propose to guide you through the various ways you can use this platform to track, package, deploy and share your models.
 
-As the pressure increases to bring models to production as fast and reliably as possible, the practices of machine learning operations (MLOps) are becoming the standard for data-driven companies. However, the abundance of tools to manage each aspect of the machine learning pipeline can appear daunting. 
+As the pressure increases to bring models to production as fast and reliably as possible, the practices of machine learning operations (MLOps) are becoming the standard for data-driven companies. However, the abundance of tools to manage each aspect of the machine learning pipeline can appear daunting.
+
+![](https://github.com/mjlindberg/sds2022_mlflow_workshop/blob/master/mlflow_example.png?raw=true)
 
 In this workshop, we focus on MLFlow, an open-source platform that proposes solutions for the four primary pain points when it comes to managing the full machine learning life cycle:
 
